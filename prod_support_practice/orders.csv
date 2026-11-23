@@ -1,0 +1,8 @@
+order_id,customer,amount,status
+1001,Asha,250.5,PAID
+1002,Ravi,abc,PAID
+1003,,100,PENDING
+1004,Meera,-50,PAID
+1005,John,1,
+1006,Priya,75,UNKNOWN
+1007,Karan,310.25,failed

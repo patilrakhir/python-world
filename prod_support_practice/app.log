@@ -1,0 +1,68 @@
+2026-11-04 14:22:26,355 - DEBUG - orders - This is a DEBUG message
+2026-11-04 14:22:26,359 - INFO - orders - This is an INFO message
+2026-11-05 14:48:50,862 - INFO - orders - Starting order file processing
+2026-11-05 14:48:50,866 - DEBUG - orders - Valid order: 1001
+2026-11-05 14:48:50,866 - WARNING - orders - Invalid order at line 3: Amount must be numeric
+2026-11-05 14:48:50,866 - WARNING - orders - Invalid order at line 4: Customer is missing
+2026-11-05 14:48:50,866 - WARNING - orders - Invalid order at line 5: Amount must be a positive number
+2026-11-05 14:48:50,866 - WARNING - orders - Invalid order at line 6: Invalid status
+2026-11-05 14:48:50,866 - WARNING - orders - Invalid order at line 7: Invalid status
+2026-11-05 14:48:50,866 - DEBUG - orders - Valid order: 1007
+2026-11-05 14:48:50,866 - INFO - orders - Order processing completed
+2026-11-05 14:48:50,866 - INFO - orders - Valid orders: 2
+2026-11-05 14:48:50,866 - INFO - orders - Invalid orders: 5
+2026-11-05 14:48:50,866 - INFO - orders - Total valid order amount: 560.75
+2026-11-05 14:48:50,866 - INFO - orders - Program finished with exit code: 1
+2026-11-14 12:37:47,065 - INFO - orders - Starting order file processing
+2026-11-14 12:37:47,083 - DEBUG - orders - Valid order: 1001
+2026-11-14 12:37:47,085 - WARNING - orders - Invalid order at line 3: Amount must be numeric
+2026-11-14 12:37:47,086 - WARNING - orders - Invalid order at line 4: Customer is missing
+2026-11-14 12:37:47,086 - WARNING - orders - Invalid order at line 5: Amount must be a positive number
+2026-11-14 12:37:47,087 - WARNING - orders - Invalid order at line 6: Invalid status
+2026-11-14 12:37:47,088 - WARNING - orders - Invalid order at line 7: Invalid status
+2026-11-14 12:37:47,088 - DEBUG - orders - Valid order: 1007
+2026-11-14 12:37:47,088 - INFO - orders - Order processing completed
+2026-11-14 12:37:47,088 - INFO - orders - Valid orders: 2
+2026-11-14 12:37:47,090 - INFO - orders - Invalid orders: 5
+2026-11-14 12:37:47,091 - INFO - orders - Total valid order amount: 560.75
+2026-11-14 12:37:47,091 - INFO - orders - Program finished with exit code: 1
+2026-11-14 15:03:39,303 - INFO - orders - Starting order file processing
+2026-11-18 20:34:54,807 - INFO - orders - Starting order file processing
+2026-11-18 20:34:54,807 - DEBUG - orders - Valid order: 1001
+2026-11-18 20:34:54,807 - WARNING - orders - Invalid order at line 3: Amount must be numeric
+2026-11-18 20:34:54,807 - WARNING - orders - Invalid order at line 4: Customer is missing
+2026-11-18 20:34:54,807 - WARNING - orders - Invalid order at line 5: Amount must be a positive number
+2026-11-18 20:34:54,807 - WARNING - orders - Invalid order at line 6: Invalid status
+2026-11-18 20:34:54,807 - WARNING - orders - Invalid order at line 7: Invalid status
+2026-11-18 20:34:54,807 - DEBUG - orders - Valid order: 1007
+2026-11-18 20:34:54,807 - INFO - orders - Order processing completed
+2026-11-18 20:34:54,807 - INFO - orders - Valid orders: 2
+2026-11-18 20:34:54,807 - INFO - orders - Invalid orders: 5
+2026-11-18 20:34:54,807 - INFO - orders - Total valid order amount: 560.75
+2026-11-18 20:34:54,807 - INFO - orders - Program finished with exit code: 1
+2026-11-18 21:36:14,883 - INFO - orders - Starting order file processing
+2026-11-18 21:36:14,884 - DEBUG - orders - Valid order: 1001
+2026-11-18 21:36:14,884 - WARNING - orders - Invalid order at line 3: Amount must be numeric
+2026-11-18 21:36:14,884 - WARNING - orders - Invalid order at line 4: Customer is missing
+2026-11-18 21:36:14,884 - WARNING - orders - Invalid order at line 5: Amount must be a positive number
+2026-11-18 21:36:14,884 - WARNING - orders - Invalid order at line 6: Invalid status
+2026-11-18 21:36:14,884 - WARNING - orders - Invalid order at line 7: Invalid status
+2026-11-18 21:36:14,885 - DEBUG - orders - Valid order: 1007
+2026-11-18 21:36:14,886 - INFO - orders - Order processing completed
+2026-11-18 21:36:14,886 - INFO - orders - Valid orders: 2
+2026-11-18 21:36:14,886 - INFO - orders - Invalid orders: 5
+2026-11-18 21:36:14,886 - INFO - orders - Total valid order amount: 560.75
+2026-11-18 21:36:14,886 - INFO - orders - Program finished with exit code: 1
+2026-11-23 12:21:27,834 - INFO - orders - Starting order file processing
+2026-11-23 12:21:27,834 - DEBUG - orders - Valid order: 1001
+2026-11-23 12:21:27,834 - WARNING - orders - Invalid order at line 3: Amount must be numeric
+2026-11-23 12:21:27,834 - WARNING - orders - Invalid order at line 4: Customer is missing
+2026-11-23 12:21:27,834 - WARNING - orders - Invalid order at line 5: Amount must be a positive number
+2026-11-23 12:21:27,834 - WARNING - orders - Invalid order at line 6: Invalid status
+2026-11-23 12:21:27,834 - WARNING - orders - Invalid order at line 7: Invalid status
+2026-11-23 12:21:27,834 - DEBUG - orders - Valid order: 1007
+2026-11-23 12:21:27,834 - INFO - orders - Order processing completed
+2026-11-23 12:21:27,834 - INFO - orders - Valid orders: 2
+2026-11-23 12:21:27,850 - INFO - orders - Invalid orders: 5
+2026-11-23 12:21:27,850 - INFO - orders - Total valid order amount: 560.75
+2026-11-23 12:21:27,850 - INFO - orders - Program finished with exit code: 1
